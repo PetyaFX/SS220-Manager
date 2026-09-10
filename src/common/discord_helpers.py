@@ -36,6 +36,9 @@ SERVERS_NICE = {
     "135.125.189.154:4002": ["Green", "https://cdn.discordapp.com/emojis/1098305756836663379.webp?size=64"],
     "141.95.72.94:4002": ["Green", "https://cdn.discordapp.com/emojis/1098305756836663379.webp?size=64"],
     "135.125.189.154:4001": ["Prime", "https://cdn.discordapp.com/emojis/1100109697744371852.webp?size=64"],
+    "116.202.156.155:4000": ["Black", "https://cdn.discordapp.com/emojis/1100109697744371852.webp?size=64"],
+    ":4000": ["Black", "https://cdn.discordapp.com/emojis/1100109697744371852.webp?size=64"],
+    ":4002": ["Green", "https://cdn.discordapp.com/emojis/1100109697744371852.webp?size=64"],
     "135.125.189.154:4000": ["Black", "https://cdn.discordapp.com/emojis/1098305756836663379.webp?size=64"]
 }  # TODO: To config
 
