@@ -1,6 +1,6 @@
 import os
 import random
-from typing import get_args
+from typing import Literal, get_args
 import asyncio
 
 import discord
